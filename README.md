@@ -12,7 +12,6 @@
 # Unit 1: Kotlin basics
 
 Take your first steps programming in Kotlin, add images and text to your Android apps, and learn how to use classes, objects, and conditionals to create an interactive app for your users.
-earnable badges
 
 - Introduction to Kotlin
 - First App in Android Studio
@@ -22,7 +21,6 @@ earnable badges
 # Unit 2: Layouts
 
 Build two different apps, and improve the user interface of your app by learning about layouts, Material Design guidelines, and best practices for UI development.
-earnable badges
 
 - Get user input in an app: Part 1
 - Get user input in an app: Part 2
@@ -31,7 +29,6 @@ earnable badges
 # Unit 3: Navigation
 
 Enhance your users’ ability to navigate across, into and back out from the various screens within your app for a consistent and predictable user experience.
-earnable badges
 
 - Navigate between screens
 - Introduction to the Navigation component
@@ -42,7 +39,6 @@ earnable badges
 # Unit 4: Connect to the internet
 
 Write coroutines for complex code, and learn about HTTP and REST to get data from the internet. Then, use the Coil library to display images in your app.
-earnable badges
 
 - Coroutines
 - Get and display data from the internet
@@ -50,7 +46,6 @@ earnable badges
 # Unit 5: Data persistence
 
 Keep your apps working through any disruptions to essential networks or processes for a smooth and consistent user experience.
-earnable badges
 
 - Introduction to SQL, Room, and Flow
 - Room for data persistence
