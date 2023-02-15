@@ -1,3 +1,5 @@
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/4522927/219104333-ca0ad362-1d38-4e64-95b7-350219a285d2.png">
+
 <h1>Android Basics in Kotlin</h1>
 
 - [Unit 1: Kotlin basics](#unit-1-kotlin-basics)
