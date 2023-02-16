@@ -14,4 +14,14 @@ class ExampleUnitTest {
     fun addition_isCorrect() {
         assertEquals(4, 2 + 2)
     }
+    @Test
+    fun addition_isNotCorrect() {
+        assertNotEquals(6, 2 + 2)
+    }
+    @Test
+    fun generates_number() {
+        val diceResult = Dice(6).roll()
+        assertTrue("The value of the dice roll was not between 1-6.",
+            diceResult in 1..6)
+    }
 }
