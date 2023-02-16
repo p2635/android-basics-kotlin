@@ -2,12 +2,24 @@
 
 <h1>Android Basics in Kotlin</h1>
 
+- [Folders](#folders)
 - [Unit 1: Kotlin basics](#unit-1-kotlin-basics)
 - [Unit 2: Layouts](#unit-2-layouts)
 - [Unit 3: Navigation](#unit-3-navigation)
 - [Unit 4: Connect to the internet](#unit-4-connect-to-the-internet)
 - [Unit 5: Data persistence](#unit-5-data-persistence)
 - [Unit 6: WorkManager](#unit-6-workmanager)
+
+# Folders
+
+```
+android-basics-kotlin
+└── unit1-kotlin-basics
+    ├── Debugging
+    ├── DiceRollerApp
+    ├── HappyBirthdayApp
+    └── PracticeCode
+```
 
 # Unit 1: Kotlin basics
 
