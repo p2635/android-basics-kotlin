@@ -3,7 +3,7 @@
 <h1>Android Basics in Kotlin</h1>
 
 - [Folders](#folders)
-- [Unit 1: Kotlin basics](#unit-1-kotlin-basics)
+- [Unit 1: Kotlin basics (completed)](#unit-1-kotlin-basics-completed)
 - [Unit 2: Layouts](#unit-2-layouts)
 - [Unit 3: Navigation](#unit-3-navigation)
 - [Unit 4: Connect to the internet](#unit-4-connect-to-the-internet)
@@ -17,11 +17,12 @@ android-basics-kotlin
 └── unit1-kotlin-basics
     ├── Debugging
     ├── DiceRollerApp
+    ├── LemonadeApp
     ├── HappyBirthdayApp
     └── PracticeCode
 ```
 
-# Unit 1: Kotlin basics
+# Unit 1: Kotlin basics (completed)
 
 Take your first steps programming in Kotlin, add images and text to your Android apps, and learn how to use classes, objects, and conditionals to create an interactive app for your users.
 
